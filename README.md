@@ -1,5 +1,4 @@
 ### Hi there 👋
 I'm a passionate developer from Germany
 
-
-![](https://raw.githubusercontent.com/xqly-stack/xqly-stack/main/assets/nyan-cat-kawaii.gif = 100x100)
+<img src="https://raw.githubusercontent.com/xqly-stack/xqly-stack/main/assets/nyan-cat-kawaii.gif" width="500" height="300"/>
